@@ -6,6 +6,6 @@
 <h4>Tokenizer</h4>
 <p>CocCoc tokenizer (https://github.com/coccoc/coccoc-tokenizer)</p>
 <h4>Smoothing</h4>
-<p>Tăng tử số lên 1 và mẫu số lên 2</p>
+<p>Laplace</p>
 <h4>Tính toán</h4>
 <p>Chuyển từ tính tích sang tính tổng log để tránh số lớn</p>
