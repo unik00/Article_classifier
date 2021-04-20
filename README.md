@@ -2,7 +2,6 @@
 
 <h4>Dữ liệu</h4>
 <p>Train: 48 bài báo lấy từ Vietnamnet thuộc 3 thể loại "Chính trị", "Thể thao", "Giáo dục"</p>
-<p>Test: 9 bài báo lấy từ các trang báo khác (Tuổi trẻ, Nhân dân, VnExpress, giaoduc.net.vn)</p>
 <h4>Tokenizer</h4>
 <p>CocCoc tokenizer (https://github.com/coccoc/coccoc-tokenizer)</p>
 <h4>Smoothing</h4>
